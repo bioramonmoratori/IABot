@@ -1,4 +1,4 @@
-IA BOT
+PROTÓTIPO IA BOT
 
 App Back-End integrado com as API's do Gmail e do Chat-GPT, capaz de abrir os últimos 100 e-mails da caixa de entrada, analisá-lo e informar quais e-mails estão de acordo com um tema previamente configurado. 
 
